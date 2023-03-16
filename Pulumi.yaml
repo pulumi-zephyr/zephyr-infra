@@ -1,0 +1,3 @@
+name: zephyr-infra
+runtime: nodejs
+description: A TypeScript Pulumi program to manage Zephyr infrastructure
