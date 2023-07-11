@@ -4,13 +4,17 @@ This is the source repository for the Pulumi code to manage the base infrastruct
 
 ## Deploying with Pulumi
 
-To deploy this infrastructure with Pulumi, you should:
+### Prerequisites
+
+To deploy this infrastructure with Pulumi, you need to:
 
 * have the Pulumi CLI installed, and ensure you are signed into a backend;
 * have NodeJS installed; and
 * have the AWS CLI installed and configured for your AWS account.
 
-Then follow these steps:
+### Instructions
+
+Follow these steps to deploy the base infrastructure that will support Zephyr's online store:
 
 1. Clone this repository to your local system (if you haven't already).
 2. Run `npm install` to install all necessary dependencies.
